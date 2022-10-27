@@ -1,0 +1,19 @@
+{
+  "name": "docs-landers",
+  "version": "0.0.1",
+  "description": "Manual de usuario para sistema Landers",
+  "main": "index.js",
+  "authors": {
+    "name": "Diego Vargas",
+    "email": "diegovargas@raptorcx.com"
+  },
+  "repository": "/docs-landers",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
